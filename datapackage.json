@@ -1,0 +1,65 @@
+{
+  "name": "dadoscrimesp",
+  "title": "Ocorrências criminais por delegacia na cidade de São Paulo",
+  "description": "Ocorrências criminais registradas por mês em cada delegacia da cidade de São Paulo desde 2002, com as áreas oficiais das delegacias, a população de cada área (Censo 2022) e indicadores dos últimos 12 meses. Organizado a partir das estatísticas mensais da Secretaria da Segurança Pública do Estado de São Paulo (SSP-SP).",
+  "homepage": "https://dadoscrimesp.com.br/dados/",
+  "version": "2026.09",
+  "temporal": {
+    "start": "2002-01",
+    "end": "2026-09"
+  },
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "title": "Creative Commons Attribution Share-Alike 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Secretaria da Segurança Pública do Estado de São Paulo (SSP-SP)",
+      "path": "https://www.ssp.sp.gov.br/estatistica"
+    },
+    {
+      "title": "GeoSampa, Prefeitura de São Paulo",
+      "path": "https://geosampa.prefeitura.sp.gov.br/"
+    },
+    {
+      "title": "IBGE, Censo Demográfico 2022",
+      "path": "https://censo2022.ibge.gov.br/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "ocorrencias_mensais",
+      "path": "ocorrencias_mensais.csv.gz",
+      "format": "csv",
+      "compression": "gz"
+    },
+    {
+      "name": "delegacias",
+      "path": "delegacias.csv",
+      "format": "csv"
+    },
+    {
+      "name": "areas_delegacias",
+      "path": "delegacias.geojson",
+      "format": "geojson"
+    },
+    {
+      "name": "indicadores_12_meses",
+      "path": "indicadores_12_meses.csv",
+      "format": "csv"
+    },
+    {
+      "name": "distritos_delegacias",
+      "path": "distritos_delegacias.csv",
+      "format": "csv"
+    },
+    {
+      "name": "dicionario",
+      "path": "dicionario.csv",
+      "format": "csv"
+    }
+  ]
+}

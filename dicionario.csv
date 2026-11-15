@@ -1,0 +1,10 @@
+arquivo,coluna,descricao
+ocorrencias_mensais,ano,Ano do registro
+ocorrencias_mensais,mes,Mês do registro (1 a 12)
+ocorrencias_mensais,codigo_delegacia,"Número da delegacia com 3 dígitos (001 = 1º DP) ou ""congonhas"""
+ocorrencias_mensais,delegacia,Nome da delegacia
+ocorrencias_mensais,categoria_ssp,Categoria como publicada pela SSP (ver README: totais e partes)
+ocorrencias_mensais,casos,"Ocorrências registradas (ou vítimas, nas categorias ""Nº DE VÍTIMAS"")"
+indicadores_12_meses,cvli_casos,"Mortes violentas: homicídio doloso, latrocínio e lesão corporal seguida de morte"
+indicadores_12_meses,*_por_100_mil,Casos por 100 mil moradores da área (Censo 2022); vazio abaixo de 10 mil moradores
+indicadores_12_meses,indice_ponderado,Soma dos crimes com peso pela pena média (ver metodologia do site)
