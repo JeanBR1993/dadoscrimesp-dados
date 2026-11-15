@@ -34,9 +34,9 @@ Categorias que contam vítimas, não ocorrências:
 - `Nº DE VÍTIMAS EM HOMICÍDIO DOLOSO POR ACIDENTE DE TRÂNSITO`
 - `Nº DE VÍTIMAS EM LATROCÍNIO`
 
-Outras quebras de série: a Lei 12.015 (agosto de 2009) ampliou a definição de estupro; algumas partes dos totais
-só são publicadas a partir de 2015/2016; 2020 foi afetado pela pandemia. São registros de boletins de ocorrência,
-não todos os crimes que acontecem.
+Outras quebras de série: a Lei 12.015 (agosto de 2009) ampliou a definição de estupro; as partes dos totais de
+estupro e de roubo só aparecem de forma completa a partir de 2017 (com registros esparsos em 2015 e 2016); 2020 foi
+afetado pela pandemia. São registros de boletins de ocorrência, não todos os crimes que acontecem.
 
 ## Fontes e licença
 
