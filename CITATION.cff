@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se usar estes dados, cite o Dados de Crimes São Paulo e as fontes originais (SSP-SP, GeoSampa e IBGE)."
+title: "Ocorrências criminais por delegacia na cidade de São Paulo"
+type: dataset
+authors:
+  - given-names: "Jean Carlo"
+    family-names: "Bego Jacintho"
+license: CC-BY-SA-4.0
+url: "https://dadoscrimesp.com.br/dados/"
+repository: "https://github.com/JeanBR1993/dadoscrimesp-dados"
+keywords:
+  - segurança pública
+  - criminalidade
+  - São Paulo
+  - delegacias
+  - SSP-SP
+  - dados abertos
