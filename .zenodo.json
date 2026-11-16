@@ -1,0 +1,11 @@
+{
+  "upload_type": "dataset",
+  "title": "Ocorrências criminais por delegacia na cidade de São Paulo",
+  "description": "<p>Ocorrências criminais registradas por mês em cada uma das 94 delegacias da cidade de São Paulo desde janeiro de 2002, por categoria de crime da Secretaria da Segurança Pública do Estado de São Paulo (SSP-SP), com as áreas oficiais das delegacias (GeoSampa), a população de cada área (IBGE, Censo 2022) e indicadores dos últimos 12 meses. Atualizado todo mês.</p><p>Antes de somar categorias, leia o README: a SSP publica totais junto com as partes que os compõem e mistura ocorrências com vítimas. Metodologia: https://dadoscrimesp.com.br/metodologia/. Projeto independente, sem vínculo com a SSP-SP.</p>",
+  "creators": [
+    {"name": "Bego Jacintho, Jean Carlo"}
+  ],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "keywords": ["segurança pública", "criminalidade", "São Paulo", "delegacias", "SSP-SP", "dados abertos"]
+}
